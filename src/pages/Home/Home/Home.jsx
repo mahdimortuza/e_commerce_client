@@ -1,5 +1,7 @@
 import { Helmet } from "react-helmet";
+import MainButton from "../../../components/MainButton/MainButton";
 import MainHeader from "../../../components/MainHeader/MainHeader";
+import Slider from "../Slider/Slider";
 
 const Home = () => {
   return (
@@ -8,10 +10,14 @@ const Home = () => {
         <meta charSet="utf-8" />
         <title>Home || Baba's Store</title>
       </Helmet>
+
+      <Slider></Slider>
+
       <MainHeader
         heading="Our All Products"
         subHeading="You got one place to find our premium products."
       ></MainHeader>
+      <MainButton text="Hello world"></MainButton>
     </div>
   );
 };

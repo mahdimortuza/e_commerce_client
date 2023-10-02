@@ -4,6 +4,12 @@
 
 /* src/index.css or src/App.css */
 
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Raleway&display=swap");
+
+.offerText {
+  font-family: "Black Ops One", cursive;
+}
+
 body {
   font-family: "Roboto", sans-serif;
 }
