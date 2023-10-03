@@ -16,6 +16,7 @@ const Navbar = () => {
   return (
     <>
       <div className="max-w-[1450px] mx-auto">
+        {/* for the offer text  */}
         <div className="flex justify-between h-12 items-center">
           <div className="flex">
             <p className="font-semibold hidden md:block">
@@ -46,7 +47,10 @@ const Navbar = () => {
       </div>
 
       {/* header logo and navigation bar  */}
-      <div className="bg-[#e6005c] h-16 flex items-center">
+      <div
+        className="bg-[#e6005c] h-16 sticky top-0 flex items-center"
+        style={{ zIndex: 2 }}
+      >
         <div className="w-[1450px] mx-auto flex justify-between px-5 md:px-0">
           <Link className="flex items-center text-white" to="/">
             <FaCartArrowDown className="text-xl" />
@@ -118,22 +122,25 @@ const Navbar = () => {
 
       <ul
         className={
-          !open ? "hidden" : "absolute bg-[#e6005c] text-white w-full px-5"
+          !open
+            ? "hidden"
+            : "sticky top-16 bg-[#e6005c] text-white w-full px-5 z-20"
+          // !open ? "hidden" : "absolute bg-[#e6005c] text-white w-full px-5 z-20"
         }
       >
-        <li className="border-b border-zinc-300 pt-3">
+        <li onClick={handleClick} className="border-b border-zinc-300 pt-3">
           <Link to="/">Home</Link>
         </li>
         <li className="border-b border-zinc-300 pt-3">
           <select className="outline-none bg-[#e6005c]">
             <option>Category</option>
             <option>
-              <Link to="/">Food</Link>
+              <Link to="/food">Food</Link>
             </option>
-            <option>
+            <option onClick={handleClick}>
               <Link to="/">Chocolate</Link>
             </option>
-            <option>
+            <option onClick={handleClick}>
               <Link to="/">Grocery</Link>
             </option>
           </select>

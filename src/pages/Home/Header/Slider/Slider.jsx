@@ -52,7 +52,7 @@ const items = [
 
 const Slider = () => {
   return (
-    <div className="w-1/2">
+    <div className="md:w-1/2">
       <Swiper
         slidesPerView={1}
         spaceBetween={30}
@@ -60,8 +60,9 @@ const Slider = () => {
         pagination={{
           clickable: true,
         }}
-        navigation={true}
-        modules={[Pagination, Navigation]}
+        // navigation={true}
+        // modules={[Pagination, Navigation]}
+        modules={[Pagination]}
         className="mySwiper h-full"
       >
         {items.map((item) => (

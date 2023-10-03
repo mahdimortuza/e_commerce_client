@@ -38,37 +38,39 @@ const Offer = () => {
 
   const seconds = time % 60;
   const minutes = Math.floor(time / 60);
-  const hours = 60 / minutes;
+  const hours = 420;
 
   return (
-    <div className="w-1/2">
+    <div className="md:w-1/2 mt-5 md:mt-0">
       {/*  this is for offer section  */}
       <div className="border-2 rounded-md h-full border-[#e6005c] hover:border-[#626262]">
-        <h1 className="offerText text-xl text-center mt-3">
+        <h1 className="offerText md:text-xl text-center mt-3">
           Special Gift Offer for You
         </h1>
 
         {/* this is for offer timer  */}
 
-        <div>
+        <div className="px-5 md:px:0 pb-5">
           {offers.map((offer) => (
             <div key={offer.img}>
-              <div className="mx-10 mt-1">
-                <div className="flex gap-5 items-center justify-between">
-                  <div className="flex gap-5 items-center">
-                    <img className="w-24" src={offer.img}></img>
+              <div className="mx:5 md:mx-10 mt-3 md:mt-1">
+                <div className="md:flex gap-2 md:gap-5 items-center justify-between">
+                  <div className="flex gap-2 md:gap-5 items-center">
+                    <img className="w-20 md:w-24" src={offer.img}></img>
                     <div>
                       <h1 className="">
-                        <span className="text-[#e6005c] text-3xl font-bold">
+                        <span className="text-[#e6005c] text-xl md:text-3xl font-bold">
                           {offer.off}
                         </span>
                         <span className="badge badge-accent text-white ml-1">
                           {offer.status}
                         </span>
                       </h1>
-                      <h1 className="text-xl font-bold ">{offer.des}</h1>
+                      <h1 className="text:md md:text-xl font-bold ">{offer.des}</h1>
+
+
                       {/* this is for the timer  */}`
-                      <h1 className="text-xl font-bold mt-2">
+                      <h1 className="text-md md:text-xl font-bold md:mt-2">
                         <span className="bg-[#36c2b4] text-white px-2 py-1 rounded-md mr-2">
                           {hours}
                         </span>
@@ -84,9 +86,11 @@ const Offer = () => {
                       `
                     </div>
                   </div>
+
+
                   {/* coupon section  */}
-                  <div className="w-1/3 mt-5">
-                    <h2 className="border border-dashed border-[#e6005c] px-4 py-3 rounded-md text-3xl font-bold">
+                  <div className="md:w-1/3 md:mt-5">
+                    <h2 className="border border-dashed border-[#e6005c] px-2 py-1 md:px-4 md:py-3 rounded-md text-md md:text-3xl font-bold">
                       {offer.coupon}
                     </h2>
                     <p className="mt-1 text-xs">{offer.warn}</p>
