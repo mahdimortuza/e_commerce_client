@@ -1,7 +1,7 @@
 import { Helmet } from "react-helmet";
 import MainButton from "../../../components/MainButton/MainButton";
 import MainHeader from "../../../components/MainHeader/MainHeader";
-import Slider from "../Slider/Slider";
+import Header from "../Header/Header";
 
 const Home = () => {
   return (
@@ -11,7 +11,7 @@ const Home = () => {
         <title>Home || Baba's Store</title>
       </Helmet>
 
-      <Slider></Slider>
+      <Header></Header>
 
       <MainHeader
         heading="Our All Products"
