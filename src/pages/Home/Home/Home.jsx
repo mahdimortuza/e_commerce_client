@@ -1,7 +1,7 @@
 import { Helmet } from "react-helmet";
 import MainHeader from "../../../components/MainHeader/MainHeader";
 import Header from "../Header/Header";
-import AllProducts from "../AllProducts/AllProducts";
+import Products from "../AllProducts/Products/Products";
 
 const Home = () => {
   return (
@@ -20,7 +20,7 @@ const Home = () => {
       ></MainHeader>
 
       {/* This is for loading all products in tab  */}
-      <AllProducts></AllProducts>
+      <Products></Products>
     </div>
   );
 };
