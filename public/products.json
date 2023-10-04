@@ -1,0 +1,954 @@
+{
+    "products": [
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/a7-usb-01-500x500.jpg",
+            "name": "Havit K3 - Mouse",
+            "stock": 42,
+            "price": 35.99,
+            "description": "A high-precision gaming mouse designed for superior performance and accuracy.",
+            "category": "Mouse",
+            "tags": [
+                "Gaming",
+                "Accuracy"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/v5-rgb-01-500x500.jpg",
+            "name": "Moba K3 - Mouse",
+            "stock": 65,
+            "price": 49.99,
+            "description": "A professional-grade mouse with RGB lighting for gamers seeking precision.",
+            "category": "Mouse",
+            "tags": [
+                "RGB",
+                "Precision"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/v6-gaming-01-500x500.jpg",
+            "name": "Logi - Mouse",
+            "stock": 25,
+            "price": 59.99,
+            "description": "Experience top-tier gaming performance with the Logi gaming mouse.",
+            "category": "Mouse",
+            "tags": [
+                "Gaming",
+                "Performance"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/t80-gamer-01-500x500.jpg",
+            "name": "Bogi - Mouse",
+            "stock": 77,
+            "price": 44.99,
+            "description": "Elevate your gaming with the Bogi high-precision gaming mouse.",
+            "category": "Mouse",
+            "tags": [
+                "High Precision",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/p307-tuf-gaming-m4-air-02-500x500.jpg",
+            "name": "Tuff gaming - Mouse",
+            "stock": 33,
+            "price": 79.99,
+            "description": "Unleash your gaming potential with the Tuff gaming mouse.",
+            "category": "Mouse",
+            "tags": [
+                "Tuff",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/p307-tuf-gaming-m4-air-01-500x500.jpg",
+            "name": "Muff gaming - Mouse",
+            "stock": 12,
+            "price": 62.99,
+            "description": "Upgrade your gaming experience with the Muff gaming mouse.",
+            "category": "Mouse",
+            "tags": [
+                "Muff",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "name": "Havit - Mouse",
+            "stock": 58,
+            "price": 47.99,
+            "description": "Havit brings you precision and style with their gaming mouse.",
+            "category": "Mouse",
+            "tags": [
+                "Havit",
+                "Precision"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-1-500x500.jpg",
+            "name": "Buff gaming - Mouse",
+            "stock": 99,
+            "price": 54.99,
+            "description": "Experience the ultimate gaming with the Buff gaming mouse.",
+            "category": "Mouse",
+            "tags": [
+                "Buff",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/mg210-01-500x500.jpg",
+            "name": "SXS - Mouse",
+            "stock": 18,
+            "price": 70.99,
+            "description": "SXS delivers precision and performance with their gaming mouse.",
+            "category": "Mouse",
+            "tags": [
+                "SXS",
+                "Precision"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/hv-ms691-4-500x500.jpg",
+            "name": "Latt gaming - Mouse",
+            "stock": 56,
+            "price": 59.99,
+            "description": "Upgrade your gaming experience with the Latt gaming mouse for precision and performance.",
+            "category": "Mouse",
+            "tags": [
+                "Gaming",
+                "Precision"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/hades-m1-01-500x500.jpg",
+            "name": "Mobil gaming - Mouse",
+            "stock": 63,
+            "price": 49.99,
+            "description": "Get the edge in gaming with the Mobil gaming mouse for ultimate accuracy and performance.",
+            "category": "Mouse",
+            "tags": [
+                "Gaming",
+                "Precision"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/keyboards/vendetta-01-500x500.webp",
+            "name": "Mechanical Keyboard",
+            "stock": 22,
+            "price": 73.99,
+            "description": "Enhance your typing experience with the Mechanical Keyboard featuring RGB lighting and tactile switches.",
+            "category": "Keyboard",
+            "tags": [
+                "Mechanical",
+                "RGB"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/keyboards/aula-f3010-gaming-keyboard-01-500x500.webp",
+            "name": "Communication Keyboard",
+            "stock": 41,
+            "price": 79.99,
+            "description": "The Communication Keyboard offers tactile precision and RGB lighting for enhanced typing.",
+            "category": "Keyboard",
+            "tags": [
+                "Mechanical",
+                "RGB"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/keyboards/ek87-01-500x500.jpg",
+            "name": "Mass Keyboard",
+            "stock": 29,
+            "price": 68.99,
+            "description": "Experience typing like never before with the Mass Keyboard and its RGB lighting.",
+            "category": "Keyboard",
+            "tags": [
+                "Mechanical",
+                "RGB"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/keyboards/gk-700-01-500x500.jpg",
+            "name": "Clinical Keyboard",
+            "stock": 85,
+            "price": 65.99,
+            "description": "The Clinical Keyboard offers precision and tactile feedback for professionals.",
+            "category": "Keyboard",
+            "tags": [
+                "Mechanical",
+                "Tactile"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/keyboards/kb488l-01-500x500.jpg",
+            "name": "Astronomical Keyboard",
+            "stock": 37,
+            "price": 77.99,
+            "description": "Explore the universe of typing with the Astronomical Keyboard and its customizable RGB lighting.",
+            "category": "Keyboard",
+            "tags": [
+                "Mechanical",
+                "RGB"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/keyboards/km-760-01-500x500.webp",
+            "name": "Physical Keyboard",
+            "stock": 52,
+            "price": 85.99,
+            "description": "The Physical Keyboard offers a tactile typing experience with customizable RGB lighting.",
+            "category": "Keyboard",
+            "tags": [
+                "Mechanical",
+                "RGB"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/joystick/3d-pro-gaming-joystick-1-500x500.jpg",
+            "name": "Logitech Extreme 3D Pro - Joystick",
+            "stock": 27,
+            "price": 54.99,
+            "description": "Immerse yourself in flight and simulation with the Logitech Extreme 3D Pro Joystick.",
+            "category": "Joystick",
+            "tags": [
+                "Simulation",
+                "Flight"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/joystick/amp17ap-4-500x500.jpg",
+            "name": "Controller - Joystick",
+            "stock": 27,
+            "price": 54.99,
+            "description": "Experience immersive flight and simulation with the Controller - Joystick.",
+            "category": "Joystick",
+            "tags": [
+                "Simulation",
+                "Ergonomic"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/joystick/g145bt-01-500x500.jpg",
+            "name": "3D Pro - Joystick",
+            "stock": 19,
+            "price": 42.99,
+            "description": "Take control of your virtual world with the 3D Pro - Joystick.",
+            "category": "Joystick",
+            "tags": [
+                "Simulation",
+                "Ergonomic"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/joystick/gp-50-02-500x500.webp",
+            "name": "Extreme 3D Pro - Joystick",
+            "stock": 33,
+            "price": 61.99,
+            "description": "Elevate your flight and simulation experience with the Extreme 3D Pro - Joystick.",
+            "category": "Joystick",
+            "tags": [
+                "Simulation",
+                "Ergonomic"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/joystick/gw520-01-500x500.jpg",
+            "name": "Army Extreme 3D Pro - Joystick",
+            "stock": 12,
+            "price": 47.99,
+            "description": "Join the virtual battlefield with the Army Extreme 3D Pro - Joystick.",
+            "category": "Joystick",
+            "tags": [
+                "Simulation",
+                "Ergonomic"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/joystick/h101-03-500x500.webp",
+            "name": "Elephant Extreme 3D Pro - Joystick",
+            "stock": 25,
+            "price": 55.99,
+            "description": "Experience the wild side of flight and simulation with the Elephant Extreme 3D Pro - Joystick.",
+            "category": "Joystick",
+            "tags": [
+                "Simulation",
+                "Ergonomic"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/joystick/h105-white-purple-01-500x500.webp",
+            "name": "Hippo Extreme 3D Pro - Joystick",
+            "stock": 18,
+            "price": 63.99,
+            "description": "Dive into immersive flight and simulation with the Hippo Extreme 3D Pro - Joystick.",
+            "category": "Joystick",
+            "tags": [
+                "Simulation",
+                "Ergonomic"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/joystick/harrow-g808-1-500x500.jpg",
+            "name": "Dragon Extreme 3D Pro - Joystick",
+            "stock": 31,
+            "price": 49.99,
+            "description": "Conquer the virtual skies with the Dragon Extreme 3D Pro - Joystick.",
+            "category": "Joystick",
+            "tags": [
+                "Simulation",
+                "Ergonomic"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/joystick/saturn-g807-1-500x500.jpg",
+            "name": "Havit Extreme 3D Pro - Joystick",
+            "stock": 22,
+            "price": 58.99,
+            "description": "Achieve precision control in flight and simulation with the Havit Extreme 3D Pro - Joystick.",
+            "category": "Joystick",
+            "tags": [
+                "Simulation",
+                "Ergonomic"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/monitor/193v-500x500.png",
+            "name": "27-inch Gaming Monitor",
+            "stock": 28,
+            "price": 289.99,
+            "description": "Enjoy gaming on a 27-inch monitor with high-refresh-rate, vivid colors, and minimal input lag.",
+            "category": "Monitor",
+            "tags": [
+                "27-inch",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/monitor/d1918h-01-500x500.jpg",
+            "name": "Sony 27-inch Gaming Monitor",
+            "stock": 30,
+            "price": 299.99,
+            "description": "Immerse yourself in gaming with the Sony 27-inch Gaming Monitor featuring high-refresh-rate and vivid colors.",
+            "category": "Monitor",
+            "tags": [
+                "27-inch",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/monitor/gw2283-2-500x500.jpg",
+            "name": "Benq 27-inch Gaming Monitor",
+            "stock": 25,
+            "price": 279.99,
+            "description": "Upgrade your gaming setup with the Benq 27-inch Gaming Monitor for immersive gameplay.",
+            "category": "Monitor",
+            "tags": [
+                "27-inch",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/monitor/led350-19-inch-monitor-500x500.webp",
+            "name": "Apacer 27-inch Gaming Monitor",
+            "stock": 32,
+            "price": 319.99,
+            "description": "Experience gaming like never before on the Apacer 27-inch Gaming Monitor with minimal input lag.",
+            "category": "Monitor",
+            "tags": [
+                "27-inch",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/monitor/redmi-g24-01-500x500.webp",
+            "name": "Mobil 27-inch Gaming Monitor",
+            "stock": 29,
+            "price": 289.99,
+            "description": "Get the competitive edge with the Mobil 27-inch Gaming Monitor for fast-paced gaming.",
+            "category": "Monitor",
+            "tags": [
+                "27-inch",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/monitor/rmmnt27nq-01-500x500.webp",
+            "name": "Acer 27-inch Gaming Monitor",
+            "stock": 35,
+            "price": 349.99,
+            "description": "Enhance your gaming experience with the Acer 27-inch Gaming Monitor and its vibrant colors.",
+            "category": "Monitor",
+            "tags": [
+                "27-inch",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/monitor/se2222h-01-500x500.jpg",
+            "name": "Dell 27-inch Gaming Monitor",
+            "stock": 27,
+            "price": 309.99,
+            "description": "Dive into gaming bliss with the Dell 27-inch Gaming Monitor and its high-refresh-rate display.",
+            "category": "Monitor",
+            "tags": [
+                "27-inch",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/monitor/va2215-h-01-500x500.jpg",
+            "name": "Logi 27-inch Gaming Monitor",
+            "stock": 31,
+            "price": 329.99,
+            "description": "Achieve a competitive edge in gaming with the Logi 27-inch Gaming Monitor and its minimal input lag.",
+            "category": "Monitor",
+            "tags": [
+                "27-inch",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://github.com/mahdimortuza/e_commerce_client/blob/main/src/assets/combo/smooth-q3-combo-03-500x500.jpg",
+            "name": "Gimble Kit accessories",
+            "stock": 44,
+            "price": 24.99,
+            "description": "Elevate your gaming setup with the Gimble Kit accessories, including a mousepad and cable management.",
+            "category": "Accessories",
+            "tags": [
+                "Bundle",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/zhiyun-smooth-q4-gimbal-stabilizer-01-500x500.webp",
+            "name": "Bumble Kit accessories",
+            "stock": 36,
+            "price": 21.99,
+            "description": "Upgrade your gaming accessories with the Bumble Kit, featuring a mousepad and cable management.",
+            "category": "Accessories",
+            "tags": [
+                "Bundle",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/smooth-q3-combo-03-500x500.jpg",
+            "name": "Camera Kit accessories",
+            "stock": 37,
+            "price": 25.99,
+            "description": "Upgrade your photography gear with the Camera Kit accessories, including a mousepad and cable management.",
+            "category": "Accessories",
+            "tags": [
+                "Bundle",
+                "Photography"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/rsc-2-pro-combo-01-500x500.webp",
+            "name": "DJI Ronin Kit accessories",
+            "stock": 39,
+            "price": 28.99,
+            "description": "Enhance your videography equipment with the DJI Ronin Kit accessories, featuring a mousepad and cable management.",
+            "category": "Accessories",
+            "tags": [
+                "Bundle",
+                "Videography"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/rs-3--01-500x500.webp",
+            "name": "Dbdul goni Kit accessories",
+            "stock": 42,
+            "price": 26.99,
+            "description": "Get essential accessories for your daily needs with the Dbdul goni Kit, including a mousepad and cable management.",
+            "category": "Accessories",
+            "tags": [
+                "Bundle",
+                "Essentials"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/t650-02-500x500.webp",
+            "name": "Gaming Kit accessories",
+            "stock": 35,
+            "price": 23.99,
+            "description": "Level up your gaming experience with the Gaming Kit accessories, including a mousepad and cable management.",
+            "category": "Accessories",
+            "tags": [
+                "Bundle",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/chair/mt-chr05-01-black-500x500.jpg",
+            "name": "DXRacer Racing Series - Gaming Chair",
+            "stock": 12,
+            "price": 299.99,
+            "description": "Experience comfort and support with the DXRacer Racing Series Gaming Chair, designed for long gaming sessions.",
+            "category": "Chair",
+            "tags": [
+                "Ergonomic",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/chair/king-of-war-c601-red-500x500.jpg",
+            "name": "King's DXRacer Racing Series - Gaming Chair",
+            "stock": 11,
+            "price": 279.99,
+            "description": "Rule your gaming kingdom with the King's DXRacer Racing Series Gaming Chair, fit for a gaming monarch.",
+            "category": "Chair",
+            "tags": [
+                "Ergonomic",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/chair/hairpin-red-01-500x500.jpg",
+            "name": "Sister's DXRacer Racing Series - Gaming Chair",
+            "stock": 13,
+            "price": 319.99,
+            "description": "Sit in style and comfort with the Sister's DXRacer Racing Series Gaming Chair, designed for gaming royalty.",
+            "category": "Chair",
+            "tags": [
+                "Ergonomic",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/chair/evo-m-br-01-500x500.webp",
+            "name": "Grand Father's DXRacer Racing Series - Gaming Chair",
+            "stock": 14,
+            "price": 349.99,
+            "description": "Experience gaming nostalgia with the Grand Father's DXRacer Racing Series Gaming Chair, designed for retro gaming enthusiasts.",
+            "category": "Chair",
+            "tags": [
+                "Ergonomic",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/chair/ch106-01-500x500.jpg",
+            "name": "Brother's DXRacer Racing Series - Gaming Chair",
+            "stock": 15,
+            "price": 269.99,
+            "description": "Join the gaming elite with the Brother's DXRacer Racing Series Gaming Chair, crafted for serious gamers.",
+            "category": "Chair",
+            "tags": [
+                "Ergonomic",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/chair/ch-106-black-pink-1-500x500.jpg",
+            "name": "DXRacer Racing Series - Gaming Chair",
+            "stock": 9,
+            "price": 179.99,
+            "description": "Upgrade your gaming setup with the DXRacer Racing Series Gaming Chair, featuring ergonomic design and adjustable armrests.",
+            "category": "Chair",
+            "tags": [
+                "Ergonomic",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/chair/apex-m-01-500x500.webp",
+            "name": "Gaming Chair",
+            "stock": 11,
+            "price": 199.99,
+            "description": "Experience comfort during your gaming sessions with the Gaming Chair, designed for ergonomic support.",
+            "category": "Chair",
+            "tags": [
+                "Ergonomic",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/chair/apex-bb-01-500x500.webp",
+            "name": "DXRacer Racing Series - Gaming Chair",
+            "stock": 8,
+            "price": 209.99,
+            "description": "Upgrade your gaming setup with the DXRacer Racing Series Gaming Chair, featuring ergonomic design and lumbar support.",
+            "category": "Chair",
+            "tags": [
+                "Ergonomic",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/chair/ch-106-green-1-500x500.jpg",
+            "name": "Racing Series - Gaming Chair",
+            "stock": 12,
+            "price": 189.99,
+            "description": "Experience the thrill of gaming with the Racing Series Gaming Chair, designed for comfort and style.",
+            "category": "Chair",
+            "tags": [
+                "Ergonomic",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/t650-03-500x500.webp",
+            "name": "Redragon S101 - Gaming Combo Pack",
+            "stock": 24,
+            "price": 119.99,
+            "description": "Enhance your gaming experience with the Redragon S101 Gaming Combo Pack, including a keyboard, mouse, and headset.",
+            "category": "Combo",
+            "tags": [
+                "Combo",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/mini-3-02-500x500.webp",
+            "name": "Drone",
+            "stock": 22,
+            "price": 129.99,
+            "description": "Explore the skies with the Drone Combo Pack, featuring a drone, remote controller, and accessories.",
+            "category": "Combo",
+            "tags": [
+                "Combo",
+                "Drones"
+            ]
+        },
+        {
+            "img": "",
+            "name": "Drone",
+            "stock": 27,
+            "price": 139.99,
+            "description": "Experience aerial adventures with the Drone Combo Pack, including a high-quality drone and accessories.",
+            "category": "Combo",
+            "tags": [
+                "Combo",
+                "Drones"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/crane-m3%20combo-01-500x500.jpg",
+            "name": "Full pack combo",
+            "stock": 26,
+            "price": 109.99,
+            "description": "Get everything you need for gaming with the Full Pack Combo, including a keyboard, mouse, and headset.",
+            "category": "Combo",
+            "tags": [
+                "Combo",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/gk-490-01-500x500.jpg",
+            "name": "Combo with pad",
+            "stock": 23,
+            "price": 129.99,
+            "description": "Upgrade your gaming setup with the Combo Pack, which includes a keyboard, mouse, headset, and a mousepad.",
+            "category": "Combo",
+            "tags": [
+                "Combo",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/kb389l-01-500x500.webp",
+            "name": "Mouse Keyboard",
+            "stock": 25,
+            "price": 99.99,
+            "description": "A combo pack with keyboard, mouse, and headset for the ultimate gaming experience.",
+            "category": "Combo",
+            "tags": [
+                "Combo",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/poseidon-m2-500x500.jpg",
+            "name": "Keyboard Mouse",
+            "stock": 25,
+            "price": 99.99,
+            "description": "A combo pack with keyboard, mouse, and headset for the ultimate gaming experience.",
+            "category": "Combo",
+            "tags": [
+                "Combo",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/hv-h2198d-black-01-500x500.jpg",
+            "name": "SteelSeries Arctis Pro - Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/w106-01-500x500.webp",
+            "name": "Arctis Pro - Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/g20-01-500x500.jpg",
+            "name": "Leries Arctis Pro - Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/g25-002-500x500.jpg",
+            "name": "LSeries Arctis Pro - Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/gh-01-01-500x500.jpg",
+            "name": "BGB SteelSeries Arctis Pro - Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/h2013d-01-500x500.jpg",
+            "name": "RGB SteelSeries Arctis Pro - Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/h2178d-black-1-500x500.jpg",
+            "name": "1st Arctis Pro - Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio",
+                "Gaming"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/h2198d-03-500x500.webp",
+            "name": "Dual SteelSeries Arctis Pro - Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/hv-h2198d-black-01-500x500.jpg",
+            "name": "Acer Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/jr-hg1-01-500x500.jpg",
+            "name": "SteelSeries Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/mars-ii-hq54-01-500x500.webp",
+            "name": "Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/mars-ii-hq54-02-500x500.webp",
+            "name": "Pro - Gaming Headphones",
+            "stock": 35,
+            "price": 79.99,
+            "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "category": "Headphones",
+            "tags": [
+                "Audio"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/vr/neo-3-01-500x500.webp",
+            "name": "Gaming Box Set",
+            "stock": 12,
+            "price": 149.99,
+            "description": "A box set containing a selection of top-rated gaming titles and exclusive content.",
+            "category": "Games",
+            "tags": [
+                "Games"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/vr/playstation-vr2-01-500x500.webp",
+            "name": "PS5 Gaming Box Set",
+            "stock": 12,
+            "price": 149.99,
+            "description": "A box set containing a selection of top-rated gaming titles and exclusive content.",
+            "category": "Games",
+            "tags": [
+                "Games"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/vr/quest-2-01-500x500.jpg",
+            "name": "PS4 Box Set",
+            "stock": 12,
+            "price": 149.99,
+            "description": "A box set containing a selection of top-rated gaming titles and exclusive content.",
+            "category": "Games",
+            "tags": [
+                "Games"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/vr/quest-2-02-500x500.jpg",
+            "name": "Tuff Gaming Box Set",
+            "stock": 12,
+            "price": 149.99,
+            "description": "A box set containing a selection of top-rated gaming titles and exclusive content.",
+            "category": "Games",
+            "tags": [
+                "Games"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/vr/quest-2-03-500x500.jpg",
+            "name": "Box Set",
+            "stock": 12,
+            "price": 149.99,
+            "description": "A box set containing a selection of top-rated gaming titles and exclusive content.",
+            "category": "Games",
+            "tags": [
+                "Games"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/combo/p51-001-500x500.jpg",
+            "name": "RGB Gaming Mousepad accessories",
+            "stock": 60,
+            "price": 24.99,
+            "description": "Large RGB gaming mousepad with customizable lighting effects.",
+            "category": "Accessories",
+            "tags": [
+                "RGB",
+                "Mousepad"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/keyboards/an-300-500x500.jpg",
+            "name": "Gaming Keyboard Set accessories",
+            "stock": 20,
+            "price": 14.99,
+            "description": "Customizable keycap set for mechanical keyboards, enhanced gaming experience.",
+            "category": "Accessories",
+            "tags": [
+                "Keyboard",
+                "Customization"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/monitor/m22f-04-500x500.jpg",
+            "name": "Gaming Monitor Stand accessories",
+            "stock": 25,
+            "price": 34.99,
+            "description": "Adjustable gaming monitor stand for ergonomic viewing angles.",
+            "category": "Accessories",
+            "tags": [
+                "Monitor Stand",
+                "Ergonomic"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/em911-01-500x500.webp",
+            "name": "Gaming Mouse Bungee accessories",
+            "stock": 30,
+            "price": 12.99,
+            "description": "Mouse bungee for drag-free gaming mouse movements.",
+            "category": "Accessories",
+            "tags": [
+                "Mouse Bungee",
+                "Cable Management"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/joystick/kb-1100-500x500.webp",
+            "name": "Wireless Gaming Controller ",
+            "stock": 40,
+            "price": 39.99,
+            "description": "Wireless controller for gaming on PC and consoles with precision control.",
+            "category": "Controller",
+            "tags": [
+                "Wireless",
+                "Controller"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/f805-01-500x500.webp",
+            "name": "Logitech G Pro X Superlight - Gaming Mouse",
+            "stock": 20,
+            "price": 149.99,
+            "description": "Ultra-lightweight gaming mouse with HERO sensor for pro-level gaming.",
+            "category": "Mouse",
+            "tags": [
+                "Logitech",
+                "Ultra-light"
+            ]
+        },
+        {
+            "img": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/headphones/k800-2-500x500.jpg",
+            "name": "HyperX Cloud II - Gaming Headset",
+            "stock": 30,
+            "price": 79.99,
+            "description": "Wired gaming headset with 7.1 surround sound and memory foam ear cushions.",
+            "category": "Headphones",
+            "tags": [
+                "HyperX",
+                "Surround Sound"
+            ]
+        }
+    ]
+}

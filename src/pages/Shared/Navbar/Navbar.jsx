@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { BsPersonFill } from "react-icons/bs";
+import { BiGame } from "react-icons/bi";
 import {
   FaBars,
   FaCartArrowDown,
@@ -53,8 +54,8 @@ const Navbar = () => {
       >
         <div className="w-[1450px] mx-auto flex justify-between px-5 md:px-0">
           <Link className="flex items-center text-white" to="/">
-            <FaCartArrowDown className="text-xl" />
-            <span className="ml-2 text-xl font-semibold">Papa's Store</span>
+            <BiGame className="text-3xl" />
+            <span className="ml-1 text-2xl font-semibold">Console</span>
           </Link>
 
           {/* search bar  */}
