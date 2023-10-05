@@ -136,31 +136,37 @@ const Products = () => {
           </Tab.List>
           <Tab.Panels>
             <Tab.Panel>
-              <ProductsTab items={mouse}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={mouse}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={keyboard}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={keyboard}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={joystick}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={joystick}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={monitor}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={monitor}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={chair}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={chair}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={headphone}></ProductsTab>
+              <ProductsTab
+                isLoading={isLoading}
+                isError={isError} items={headphone}
+              ></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={games}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={games}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={accessories}></ProductsTab>
+              <ProductsTab
+                isLoading={isLoading}
+                isError={isError} items={accessories}
+              ></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={combo}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={combo}></ProductsTab>
             </Tab.Panel>
           </Tab.Panels>
         </Tab.Group>
@@ -272,31 +278,37 @@ const Products = () => {
           </Tab.List>
           <Tab.Panels>
             <Tab.Panel>
-              <ProductsTab items={mouse}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={mouse}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={keyboard}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={keyboard}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={joystick}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={joystick}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={monitor}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={monitor}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={chair}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={chair}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={headphone}></ProductsTab>
+              <ProductsTab
+                isLoading={isLoading}
+                isError={isError} items={headphone}
+              ></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={games}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={games}></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={accessories}></ProductsTab>
+              <ProductsTab
+                isLoading={isLoading}
+                isError={isError} items={accessories}
+              ></ProductsTab>
             </Tab.Panel>
             <Tab.Panel>
-              <ProductsTab items={combo}></ProductsTab>
+              <ProductsTab isLoading={isLoading} isError={isError} items={combo}></ProductsTab>
             </Tab.Panel>
           </Tab.Panels>
         </Tab.Group>
