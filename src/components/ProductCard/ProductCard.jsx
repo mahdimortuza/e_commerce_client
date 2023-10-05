@@ -10,7 +10,6 @@ const ProductCard = ({ product }) => {
 
   function openModal() {
     setIsOpen(true);
-    console.log("clicked");
   }
 
   return (

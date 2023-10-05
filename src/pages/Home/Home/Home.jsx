@@ -2,6 +2,7 @@ import { Helmet } from "react-helmet";
 import MainHeader from "../../../components/MainHeader/MainHeader";
 import Header from "../Header/Header";
 import Products from "../AllProducts/Products/Products";
+import { ToastContainer } from "react-toastify";
 
 const Home = () => {
   return (
@@ -10,6 +11,8 @@ const Home = () => {
         <meta charSet="utf-8" />
         <title>Home || Console </title>
       </Helmet>
+
+      <ToastContainer></ToastContainer>
 
       <Header></Header>
 

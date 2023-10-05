@@ -3,12 +3,29 @@ import { Fragment } from "react";
 import MainButton from "../MainButton/MainButton";
 import { Link } from "react-router-dom";
 
+import { toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+
 const Modal = ({ product, isOpen, setIsOpen }) => {
   const { _id, img, name, stock, price, description, category, tags } = product;
 
   function closeModal() {
     setIsOpen(false);
   }
+
+  const handleToast = (name) => {
+    closeModal();
+    toast(`${name} added to your cart`, {
+      position: "top-center",
+      autoClose: 5000,
+      hideProgressBar: false,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+      theme: "light",
+    });
+  };
 
   return (
     <>
@@ -57,11 +74,14 @@ const Modal = ({ product, isOpen, setIsOpen }) => {
                   </div>
 
                   <div className="mt-4 flex justify-between items-center">
-                    <p className="text-black font-semibold text-xl">Price: ${price}</p>
+                    <p className="text-black font-semibold text-xl">
+                      Price: ${price}
+                    </p>
+
                     <button
                       type="button"
                       className="inline-flex justify-center rounded-md border border-transparent bg-[#e6005c] px-4 py-2 text-sm font-medium text-white hover:bg-[#e6005c] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#e6005c] focus-visible:ring-offset-2"
-                      onClick={closeModal}
+                      onClick={() => handleToast(name)}
                     >
                       Add to cart
                     </button>
