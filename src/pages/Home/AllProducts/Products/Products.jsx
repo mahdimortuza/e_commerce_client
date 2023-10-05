@@ -1,19 +1,10 @@
-import { useEffect } from "react";
-import { useState } from "react";
 import { Tab } from "@headlessui/react";
 import ProductsTab from "../ProductsTab/ProductsTab";
 import classNames from "classnames";
 import { useGetProductsQuery } from "../../../../redux/Store/Features/products/productsApi";
 
 const Products = () => {
-  // const [products, setProducts] = useState([]);
-  // useEffect(() => {
-  //   fetch("http://localhost:5000/products")
-  //     .then((res) => res.json())
-  //     .then((data) => setProducts(data));
-  // }, []);
 
-  // using rtk query to load data
   const { data: products, isLoading, isError, error } = useGetProductsQuery();
 
   // category apis
