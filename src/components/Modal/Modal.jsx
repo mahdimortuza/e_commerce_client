@@ -68,7 +68,6 @@ const Modal = ({ product, isOpen, setIsOpen }) => {
                         {description}
                       </p>
 
-                      {/* this link is for showing product detail according to specific id  */}
                       <Link onClick={closeModal} to={`/details/${_id}`}>
                         <MainButton text="View details"></MainButton>
                       </Link>
