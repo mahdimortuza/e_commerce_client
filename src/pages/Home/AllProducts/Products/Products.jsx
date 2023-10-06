@@ -7,7 +7,7 @@ const Products = () => {
 
   const { data: products, isLoading, isError } = useGetProductsQuery();
 
-  // category apis
+  // all product apis an filtering according to category
   const mouse = products?.filter((item) => item.category === "Mouse");
   const keyboard = products?.filter((item) => item.category === "Keyboard");
   const chair = products?.filter((item) => item.category === "Chair");
