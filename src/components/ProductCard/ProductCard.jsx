@@ -15,7 +15,7 @@ const ProductCard = ({ product }) => {
   return (
     <>
       <Modal product={product} isOpen={isOpen} setIsOpen={setIsOpen}></Modal>
-      <div className="rounded-md bg-white p-3 w-64 mx-auto xs:w-full">
+      <div className="rounded-md bg-white p-3 w-64 mx-auto xs:w-full flex flex-col justify-between">
         <div className="relative">
           <img
             onClick={openModal}
@@ -26,17 +26,19 @@ const ProductCard = ({ product }) => {
             Stock: <span className="text-[#e6005c]"> {stock}</span>
           </p>
         </div>
-        <h3 className="text-[#4B5563] font-bold text-lg">{name}</h3>
         {/* price, offer and buy now button */}
-        <div className="flex justify-between">
-          <div className="">
-            <h2 className="text-black font-semibold text-sm mt-1">
-              Price: ${price}
-            </h2>
+        <div>
+          <h3 className="text-[#4B5563] font-bold text-lg">{name}</h3>
+          <div className="flex justify-between">
+            <div className="">
+              <h2 className="text-black font-semibold text-sm mt-1">
+                Price: ${price}
+              </h2>
+            </div>
+            <button className="">
+              <FaCartPlus className="text-2xl text-[#e6005c]" />
+            </button>
           </div>
-          <button className="">
-            <FaCartPlus className="text-2xl text-[#e6005c]" />
-          </button>
         </div>
       </div>
     </>
