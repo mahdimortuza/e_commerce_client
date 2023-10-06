@@ -3,7 +3,7 @@ import { useState } from "react";
 import Modal from "../Modal/Modal";
 
 const ProductCard = ({ product }) => {
-  const { _id, img, name, stock, price, description, category, tags } = product;
+  const { img, name, stock, price, description, category, tags } = product;
 
   // functions for the modal
   let [isOpen, setIsOpen] = useState(false);
