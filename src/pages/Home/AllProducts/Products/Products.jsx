@@ -5,7 +5,7 @@ import { useGetProductsQuery } from "../../../../redux/Store/Features/products/p
 
 const Products = () => {
 
-  const { data: products, isLoading, isError, error } = useGetProductsQuery();
+  const { data: products, isLoading, isError } = useGetProductsQuery();
 
   // category apis
   const mouse = products?.filter((item) => item.category === "Mouse");
