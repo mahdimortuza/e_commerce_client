@@ -1,7 +1,7 @@
 import { useGetSingleProductQuery } from "../../redux/Store/Features/products/productsApi";
 
-const ProductDetails = ({ _id }) => {
-  const { data: products, isLoading, isError } = useGetSingleProductQuery(_id);
+const ProductDetails = () => {
+  const { data: products, isLoading, isError } = useGetSingleProductQuery();
 
   if (isLoading) {
     return (
@@ -24,9 +24,7 @@ const ProductDetails = ({ _id }) => {
   return (
     <div className="max-w-[1450px] px-5 md:px-0 mx-auto">
       Product details page
-      {products.map((item) => (
-        <div key={item._id}>{item.name}</div>
-      ))}
+      <div></div>
     </div>
   );
 };
