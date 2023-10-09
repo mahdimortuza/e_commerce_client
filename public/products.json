@@ -6,6 +6,9 @@
             "stock": 42,
             "price": 35.99,
             "description": "A high-precision gaming mouse designed for superior performance and accuracy.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "Gaming",
@@ -18,6 +21,9 @@
             "stock": 65,
             "price": 49.99,
             "description": "A professional-grade mouse with RGB lighting for gamers seeking precision.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "RGB",
@@ -30,6 +36,9 @@
             "stock": 25,
             "price": 59.99,
             "description": "Experience top-tier gaming performance with the Logi gaming mouse.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "Gaming",
@@ -42,6 +51,9 @@
             "stock": 77,
             "price": 44.99,
             "description": "Elevate your gaming with the Bogi high-precision gaming mouse.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "High Precision",
@@ -54,6 +66,9 @@
             "stock": 33,
             "price": 79.99,
             "description": "Unleash your gaming potential with the Tuff gaming mouse.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "Tuff",
@@ -66,6 +81,9 @@
             "stock": 12,
             "price": 62.99,
             "description": "Upgrade your gaming experience with the Muff gaming mouse.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "Muff",
@@ -78,6 +96,9 @@
             "stock": 58,
             "price": 47.99,
             "description": "Havit brings you precision and style with their gaming mouse.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "Havit",
@@ -90,6 +111,9 @@
             "stock": 99,
             "price": 54.99,
             "description": "Experience the ultimate gaming with the Buff gaming mouse.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "Buff",
@@ -102,6 +126,9 @@
             "stock": 18,
             "price": 70.99,
             "description": "SXS delivers precision and performance with their gaming mouse.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "SXS",
@@ -114,6 +141,9 @@
             "stock": 56,
             "price": 59.99,
             "description": "Upgrade your gaming experience with the Latt gaming mouse for precision and performance.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "Gaming",
@@ -126,6 +156,9 @@
             "stock": 63,
             "price": 49.99,
             "description": "Get the edge in gaming with the Mobil gaming mouse for ultimate accuracy and performance.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "Gaming",
@@ -138,6 +171,9 @@
             "stock": 22,
             "price": 73.99,
             "description": "Enhance your typing experience with the Mechanical Keyboard featuring RGB lighting and tactile switches.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Keyboard",
             "tags": [
                 "Mechanical",
@@ -150,6 +186,9 @@
             "stock": 41,
             "price": 79.99,
             "description": "The Communication Keyboard offers tactile precision and RGB lighting for enhanced typing.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Keyboard",
             "tags": [
                 "Mechanical",
@@ -162,6 +201,9 @@
             "stock": 29,
             "price": 68.99,
             "description": "Experience typing like never before with the Mass Keyboard and its RGB lighting.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Keyboard",
             "tags": [
                 "Mechanical",
@@ -174,6 +216,9 @@
             "stock": 85,
             "price": 65.99,
             "description": "The Clinical Keyboard offers precision and tactile feedback for professionals.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Keyboard",
             "tags": [
                 "Mechanical",
@@ -186,6 +231,9 @@
             "stock": 37,
             "price": 77.99,
             "description": "Explore the universe of typing with the Astronomical Keyboard and its customizable RGB lighting.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Keyboard",
             "tags": [
                 "Mechanical",
@@ -198,6 +246,9 @@
             "stock": 52,
             "price": 85.99,
             "description": "The Physical Keyboard offers a tactile typing experience with customizable RGB lighting.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Keyboard",
             "tags": [
                 "Mechanical",
@@ -210,6 +261,9 @@
             "stock": 27,
             "price": 54.99,
             "description": "Immerse yourself in flight and simulation with the Logitech Extreme 3D Pro Joystick.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Joystick",
             "tags": [
                 "Simulation",
@@ -222,6 +276,9 @@
             "stock": 27,
             "price": 54.99,
             "description": "Experience immersive flight and simulation with the Controller - Joystick.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Joystick",
             "tags": [
                 "Simulation",
@@ -234,6 +291,9 @@
             "stock": 19,
             "price": 42.99,
             "description": "Take control of your virtual world with the 3D Pro - Joystick.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Joystick",
             "tags": [
                 "Simulation",
@@ -246,6 +306,9 @@
             "stock": 33,
             "price": 61.99,
             "description": "Elevate your flight and simulation experience with the Extreme 3D Pro - Joystick.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Joystick",
             "tags": [
                 "Simulation",
@@ -258,6 +321,9 @@
             "stock": 12,
             "price": 47.99,
             "description": "Join the virtual battlefield with the Army Extreme 3D Pro - Joystick.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Joystick",
             "tags": [
                 "Simulation",
@@ -270,6 +336,9 @@
             "stock": 25,
             "price": 55.99,
             "description": "Experience the wild side of flight and simulation with the Elephant Extreme 3D Pro - Joystick.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Joystick",
             "tags": [
                 "Simulation",
@@ -282,6 +351,9 @@
             "stock": 18,
             "price": 63.99,
             "description": "Dive into immersive flight and simulation with the Hippo Extreme 3D Pro - Joystick.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Joystick",
             "tags": [
                 "Simulation",
@@ -294,6 +366,9 @@
             "stock": 31,
             "price": 49.99,
             "description": "Conquer the virtual skies with the Dragon Extreme 3D Pro - Joystick.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Joystick",
             "tags": [
                 "Simulation",
@@ -306,6 +381,9 @@
             "stock": 22,
             "price": 58.99,
             "description": "Achieve precision control in flight and simulation with the Havit Extreme 3D Pro - Joystick.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Joystick",
             "tags": [
                 "Simulation",
@@ -318,6 +396,9 @@
             "stock": 28,
             "price": 289.99,
             "description": "Enjoy gaming on a 27-inch monitor with high-refresh-rate, vivid colors, and minimal input lag.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Monitor",
             "tags": [
                 "27-inch",
@@ -330,6 +411,9 @@
             "stock": 30,
             "price": 299.99,
             "description": "Immerse yourself in gaming with the Sony 27-inch Gaming Monitor featuring high-refresh-rate and vivid colors.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Monitor",
             "tags": [
                 "27-inch",
@@ -342,6 +426,9 @@
             "stock": 25,
             "price": 279.99,
             "description": "Upgrade your gaming setup with the Benq 27-inch Gaming Monitor for immersive gameplay.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Monitor",
             "tags": [
                 "27-inch",
@@ -354,6 +441,9 @@
             "stock": 32,
             "price": 319.99,
             "description": "Experience gaming like never before on the Apacer 27-inch Gaming Monitor with minimal input lag.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Monitor",
             "tags": [
                 "27-inch",
@@ -366,6 +456,9 @@
             "stock": 29,
             "price": 289.99,
             "description": "Get the competitive edge with the Mobil 27-inch Gaming Monitor for fast-paced gaming.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Monitor",
             "tags": [
                 "27-inch",
@@ -378,6 +471,9 @@
             "stock": 35,
             "price": 349.99,
             "description": "Enhance your gaming experience with the Acer 27-inch Gaming Monitor and its vibrant colors.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Monitor",
             "tags": [
                 "27-inch",
@@ -390,6 +486,9 @@
             "stock": 27,
             "price": 309.99,
             "description": "Dive into gaming bliss with the Dell 27-inch Gaming Monitor and its high-refresh-rate display.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Monitor",
             "tags": [
                 "27-inch",
@@ -402,6 +501,9 @@
             "stock": 31,
             "price": 329.99,
             "description": "Achieve a competitive edge in gaming with the Logi 27-inch Gaming Monitor and its minimal input lag.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Monitor",
             "tags": [
                 "27-inch",
@@ -414,6 +516,9 @@
             "stock": 44,
             "price": 24.99,
             "description": "Elevate your gaming setup with the Gimble Kit accessories, including a mousepad and cable management.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Accessories",
             "tags": [
                 "Bundle",
@@ -426,6 +531,9 @@
             "stock": 36,
             "price": 21.99,
             "description": "Upgrade your gaming accessories with the Bumble Kit, featuring a mousepad and cable management.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Accessories",
             "tags": [
                 "Bundle",
@@ -438,6 +546,9 @@
             "stock": 37,
             "price": 25.99,
             "description": "Upgrade your photography gear with the Camera Kit accessories, including a mousepad and cable management.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Accessories",
             "tags": [
                 "Bundle",
@@ -450,6 +561,9 @@
             "stock": 39,
             "price": 28.99,
             "description": "Enhance your videography equipment with the DJI Ronin Kit accessories, featuring a mousepad and cable management.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Accessories",
             "tags": [
                 "Bundle",
@@ -462,6 +576,9 @@
             "stock": 42,
             "price": 26.99,
             "description": "Get essential accessories for your daily needs with the Dbdul goni Kit, including a mousepad and cable management.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Accessories",
             "tags": [
                 "Bundle",
@@ -474,6 +591,9 @@
             "stock": 35,
             "price": 23.99,
             "description": "Level up your gaming experience with the Gaming Kit accessories, including a mousepad and cable management.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Accessories",
             "tags": [
                 "Bundle",
@@ -486,6 +606,9 @@
             "stock": 12,
             "price": 299.99,
             "description": "Experience comfort and support with the DXRacer Racing Series Gaming Chair, designed for long gaming sessions.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Chair",
             "tags": [
                 "Ergonomic",
@@ -498,6 +621,9 @@
             "stock": 11,
             "price": 279.99,
             "description": "Rule your gaming kingdom with the King's DXRacer Racing Series Gaming Chair, fit for a gaming monarch.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Chair",
             "tags": [
                 "Ergonomic",
@@ -510,6 +636,9 @@
             "stock": 13,
             "price": 319.99,
             "description": "Sit in style and comfort with the Sister's DXRacer Racing Series Gaming Chair, designed for gaming royalty.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Chair",
             "tags": [
                 "Ergonomic",
@@ -522,6 +651,9 @@
             "stock": 14,
             "price": 349.99,
             "description": "Experience gaming nostalgia with the Grand Father's DXRacer Racing Series Gaming Chair, designed for retro gaming enthusiasts.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Chair",
             "tags": [
                 "Ergonomic",
@@ -534,6 +666,9 @@
             "stock": 15,
             "price": 269.99,
             "description": "Join the gaming elite with the Brother's DXRacer Racing Series Gaming Chair, crafted for serious gamers.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Chair",
             "tags": [
                 "Ergonomic",
@@ -546,6 +681,9 @@
             "stock": 9,
             "price": 179.99,
             "description": "Upgrade your gaming setup with the DXRacer Racing Series Gaming Chair, featuring ergonomic design and adjustable armrests.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Chair",
             "tags": [
                 "Ergonomic",
@@ -558,6 +696,9 @@
             "stock": 11,
             "price": 199.99,
             "description": "Experience comfort during your gaming sessions with the Gaming Chair, designed for ergonomic support.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Chair",
             "tags": [
                 "Ergonomic",
@@ -570,6 +711,9 @@
             "stock": 8,
             "price": 209.99,
             "description": "Upgrade your gaming setup with the DXRacer Racing Series Gaming Chair, featuring ergonomic design and lumbar support.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Chair",
             "tags": [
                 "Ergonomic",
@@ -582,6 +726,9 @@
             "stock": 12,
             "price": 189.99,
             "description": "Experience the thrill of gaming with the Racing Series Gaming Chair, designed for comfort and style.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Chair",
             "tags": [
                 "Ergonomic",
@@ -594,6 +741,9 @@
             "stock": 24,
             "price": 119.99,
             "description": "Enhance your gaming experience with the Redragon S101 Gaming Combo Pack, including a keyboard, mouse, and headset.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Combo",
             "tags": [
                 "Combo",
@@ -606,6 +756,9 @@
             "stock": 22,
             "price": 129.99,
             "description": "Explore the skies with the Drone Combo Pack, featuring a drone, remote controller, and accessories.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Combo",
             "tags": [
                 "Combo",
@@ -618,6 +771,9 @@
             "stock": 27,
             "price": 139.99,
             "description": "Experience aerial adventures with the Drone Combo Pack, including a high-quality drone and accessories.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Combo",
             "tags": [
                 "Combo",
@@ -630,6 +786,9 @@
             "stock": 26,
             "price": 109.99,
             "description": "Get everything you need for gaming with the Full Pack Combo, including a keyboard, mouse, and headset.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Combo",
             "tags": [
                 "Combo",
@@ -642,6 +801,9 @@
             "stock": 23,
             "price": 129.99,
             "description": "Upgrade your gaming setup with the Combo Pack, which includes a keyboard, mouse, headset, and a mousepad.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Combo",
             "tags": [
                 "Combo",
@@ -654,6 +816,9 @@
             "stock": 25,
             "price": 99.99,
             "description": "A combo pack with keyboard, mouse, and headset for the ultimate gaming experience.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Combo",
             "tags": [
                 "Combo",
@@ -666,6 +831,9 @@
             "stock": 25,
             "price": 99.99,
             "description": "A combo pack with keyboard, mouse, and headset for the ultimate gaming experience.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Combo",
             "tags": [
                 "Combo",
@@ -678,6 +846,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio",
@@ -690,6 +861,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio",
@@ -702,6 +876,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio",
@@ -714,6 +891,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio",
@@ -726,6 +906,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio",
@@ -738,6 +921,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio",
@@ -750,6 +936,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio",
@@ -762,6 +951,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio"
@@ -773,6 +965,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio"
@@ -784,6 +979,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio"
@@ -795,6 +993,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio"
@@ -806,6 +1007,9 @@
             "stock": 35,
             "price": 79.99,
             "description": "Over-ear gaming headphones with immersive surround sound and noise cancellation.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "Audio"
@@ -817,6 +1021,9 @@
             "stock": 12,
             "price": 149.99,
             "description": "A box set containing a selection of top-rated gaming titles and exclusive content.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Games",
             "tags": [
                 "Games"
@@ -828,6 +1035,9 @@
             "stock": 12,
             "price": 149.99,
             "description": "A box set containing a selection of top-rated gaming titles and exclusive content.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Games",
             "tags": [
                 "Games"
@@ -839,6 +1049,9 @@
             "stock": 12,
             "price": 149.99,
             "description": "A box set containing a selection of top-rated gaming titles and exclusive content.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Games",
             "tags": [
                 "Games"
@@ -850,6 +1063,9 @@
             "stock": 12,
             "price": 149.99,
             "description": "A box set containing a selection of top-rated gaming titles and exclusive content.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Games",
             "tags": [
                 "Games"
@@ -861,6 +1077,9 @@
             "stock": 12,
             "price": 149.99,
             "description": "A box set containing a selection of top-rated gaming titles and exclusive content.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Games",
             "tags": [
                 "Games"
@@ -872,6 +1091,9 @@
             "stock": 60,
             "price": 24.99,
             "description": "Large RGB gaming mousepad with customizable lighting effects.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Accessories",
             "tags": [
                 "RGB",
@@ -884,6 +1106,9 @@
             "stock": 20,
             "price": 14.99,
             "description": "Customizable keycap set for mechanical keyboards, enhanced gaming experience.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Accessories",
             "tags": [
                 "Keyboard",
@@ -896,6 +1121,9 @@
             "stock": 25,
             "price": 34.99,
             "description": "Adjustable gaming monitor stand for ergonomic viewing angles.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Accessories",
             "tags": [
                 "Monitor Stand",
@@ -908,6 +1136,9 @@
             "stock": 30,
             "price": 12.99,
             "description": "Mouse bungee for drag-free gaming mouse movements.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Accessories",
             "tags": [
                 "Mouse Bungee",
@@ -920,6 +1151,9 @@
             "stock": 40,
             "price": 39.99,
             "description": "Wireless controller for gaming on PC and consoles with precision control.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Controller",
             "tags": [
                 "Wireless",
@@ -932,6 +1166,9 @@
             "stock": 20,
             "price": 149.99,
             "description": "Ultra-lightweight gaming mouse with HERO sensor for pro-level gaming.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Mouse",
             "tags": [
                 "Logitech",
@@ -944,6 +1181,9 @@
             "stock": 30,
             "price": 79.99,
             "description": "Wired gaming headset with 7.1 surround sound and memory foam ear cushions.",
+            "image1": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image2": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
+            "image3": "https://raw.githubusercontent.com/mahdimortuza/e_commerce_client/main/src/assets/mouse/orion-2-500x500.jpg",
             "category": "Headphones",
             "tags": [
                 "HyperX",

@@ -22,12 +22,25 @@ const ProductDetails = () => {
       </div>
     );
   }
-
-  console.log(product.name);
+  const { img, name, stock, price, description, category, tags } = product;
 
   return (
     <div className="max-w-[1450px] px-5 md:px-0 mx-auto">
-      <div>{product.name}</div>
+      <div className="flex gap-10">
+        <img src={img}></img>
+        <div>
+          <h1 className="text-3xl font-bold mt-6">{name}</h1>
+          <p>{stock}</p>
+          <p>{price}</p>
+          <p>{description}</p>
+          <p>{category}</p>
+          <p>
+            {tags[0]}, {tags[1]}
+          </p>
+
+          <p>Review: 4.5</p>
+        </div>
+      </div>
     </div>
   );
 };
