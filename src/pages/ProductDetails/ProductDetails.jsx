@@ -1,5 +1,13 @@
 import { useParams } from "react-router-dom";
 import { useGetSingleProductQuery } from "../../redux/Store/Features/products/productsApi";
+import {
+  FaClock,
+  FaEuroSign,
+  FaMoneyCheckAlt,
+  FaShippingFast,
+  FaTimesCircle,
+} from "react-icons/fa";
+import { Helmet } from "react-helmet";
 
 const ProductDetails = () => {
   const { id } = useParams();
@@ -25,20 +33,51 @@ const ProductDetails = () => {
   const { img, name, stock, price, description, category, tags } = product;
 
   return (
-    <div className="max-w-[1450px] px-5 md:px-0 mx-auto">
-      <div className="flex gap-10">
-        <img src={img}></img>
-        <div>
-          <h1 className="text-3xl font-bold mt-6">{name}</h1>
-          <p>{stock}</p>
-          <p>{price}</p>
-          <p>{description}</p>
-          <p>{category}</p>
-          <p>
-            {tags[0]}, {tags[1]}
-          </p>
+    <div className="max-w-[1450px] px-5 md:px-0 mx-auto mt-10">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>{name} || Console </title>
+      </Helmet>
 
-          <p>Review: 4.5</p>
+      <div className="flex gap-10">
+        <div className="md:flex gap-10">
+          <img className="w-3/12" src={img}></img>
+          <div>
+            <h1 className="text-3xl font-bold mt-6">{name}</h1>
+            <p className="mt-2">Stock: {stock}</p>
+            <p className="mt-10 font-bold text-xl">
+              <span className="text-[#e6005c]">${price}</span>
+            </p>
+            <p className="mt-2">{description}</p>
+            <p className="mt-2 font-bold">{category}</p>
+            <p>
+              {tags[0]}, {tags[1]}
+            </p>
+
+            <p>Review: 4.5</p>
+          </div>
+        </div>
+        <div>
+          <div className="flex gap-4 items-center">
+            <FaShippingFast className="text-2xl text-gray-500" />
+            <p>Free shipping apply to all orders over shipping $100</p>
+          </div>
+          <div className="flex gap-4 items-center mt-2">
+            <FaClock className="text-2xl text-gray-500" />
+            <p>Home Delivery within 1 Hour</p>
+          </div>
+          <div className="flex gap-4 items-center mt-2">
+            <FaEuroSign className="text-2xl text-gray-500" />
+            <p>Cash on Delivery Available</p>
+          </div>
+          <div className="flex gap-4 items-center mt-2">
+            <FaMoneyCheckAlt className="text-2xl text-gray-500" />
+            <p>7 Days returns money back guarantee</p>
+          </div>
+          <div className="flex gap-4 items-center mt-2">
+            <FaTimesCircle className="text-2xl text-gray-500" />
+            <p>Warranty not available this item</p>
+          </div>
         </div>
       </div>
     </div>
