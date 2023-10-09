@@ -33,19 +33,19 @@ const ProductDetails = () => {
   const { img, name, stock, price, description, category, tags } = product;
 
   return (
-    <div className="max-w-[1450px] px-5 md:px-0 mx-auto mt-10">
+    <div className="max-w-[1450px] mx-auto px-5 md:px-0  mt-10">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>{name} || Console </title>
+        <title>{name} </title>
       </Helmet>
 
-      <div className="flex gap-10">
-        <div className="md:flex gap-10">
-          <img className="w-3/12" src={img}></img>
+      <div className="md:flex gap-10">
+        <div className="md:flex gap-10 ">
+          <img className="w-[320px] mx-auto" src={img}></img>
           <div>
             <h1 className="text-3xl font-bold mt-6">{name}</h1>
             <p className="mt-2">Stock: {stock}</p>
-            <p className="mt-10 font-bold text-xl">
+            <p className="md:mt-10 font-bold text-xl">
               <span className="text-[#e6005c]">${price}</span>
             </p>
             <p className="mt-2">{description}</p>
@@ -57,8 +57,8 @@ const ProductDetails = () => {
             <p>Review: 4.5</p>
           </div>
         </div>
-        <div>
-          <div className="flex gap-4 items-center">
+        <div className="">
+          <div className="flex gap-4 items-center mt-10 md:mt-0">
             <FaShippingFast className="text-2xl text-gray-500" />
             <p>Free shipping apply to all orders over shipping $100</p>
           </div>
