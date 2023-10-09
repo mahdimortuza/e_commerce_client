@@ -6,7 +6,7 @@ const productsApi = baseApi.injectEndpoints({
       query: () => "/products",
     }),
     getSingleProduct: builder.query({
-      query: (_id) => `/products/${_id}`,
+      query: (id) => `/products/${id}`,
     }),
   }),
 });

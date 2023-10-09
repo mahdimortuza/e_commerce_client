@@ -4,7 +4,6 @@ import classNames from "classnames";
 import { useGetProductsQuery } from "../../../../redux/Store/Features/products/productsApi";
 
 const Products = () => {
-
   const { data: products, isLoading, isError } = useGetProductsQuery();
 
   // all product apis an filtering according to category

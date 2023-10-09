@@ -1,7 +1,9 @@
+import { useParams } from "react-router-dom";
 import { useGetSingleProductQuery } from "../../redux/Store/Features/products/productsApi";
 
 const ProductDetails = () => {
-  const { data: products, isLoading, isError } = useGetSingleProductQuery();
+  const { id } = useParams();
+  const { data: product, isLoading, isError } = useGetSingleProductQuery(id);
 
   if (isLoading) {
     return (
@@ -21,10 +23,11 @@ const ProductDetails = () => {
     );
   }
 
+  console.log(product.name);
+
   return (
     <div className="max-w-[1450px] px-5 md:px-0 mx-auto">
-      Product details page
-      <div></div>
+      <div>{product.name}</div>
     </div>
   );
 };
