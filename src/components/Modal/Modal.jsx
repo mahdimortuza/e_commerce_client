@@ -68,7 +68,11 @@ const Modal = ({ product, isOpen, setIsOpen }) => {
                         {description}
                       </p>
 
-                      <Link onClick={closeModal} to={`/details/${_id}`}>
+                      <Link
+                        className="outline-none"
+                        onClick={closeModal}
+                        to={`/details/${_id}`}
+                      >
                         <MainButton text="View details"></MainButton>
                       </Link>
                     </div>

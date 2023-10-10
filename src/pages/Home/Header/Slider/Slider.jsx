@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import { Navigation, Pagination } from "swiper/modules";
+import { Navigation, Autoplay, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import bg1 from "../../../../assets/banner/1.webp";
 import bg2 from "../../../../assets/banner/2.webp";
@@ -62,8 +62,12 @@ const Slider = () => {
         }}
         // navigation={true}
         // modules={[Pagination, Navigation]}
-        modules={[Pagination]}
+        modules={[Pagination, Autoplay]}
         className="mySwiper h-full"
+        autoplay={{
+          delay: 2000,
+          disableOnInteraction: true,
+        }}
       >
         {items.map((item) => (
           <SwiperSlide key={item.img}>
