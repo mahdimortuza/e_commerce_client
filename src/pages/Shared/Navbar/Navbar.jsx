@@ -1,13 +1,7 @@
 import { useState } from "react";
 import { BsPersonFill } from "react-icons/bs";
 import { BiGame } from "react-icons/bi";
-import {
-  FaBars,
-  FaCartArrowDown,
-  FaHeadset,
-  FaSearch,
-  FaTimes,
-} from "react-icons/fa";
+import { FaBars, FaCartArrowDown, FaHeadset, FaTimes } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
@@ -32,25 +26,16 @@ const Navbar = () => {
           </div>
 
           <ul className="flex gap-4 mr-5 md:mr-0 text-[#e6005c]">
-            <li>
-              <Link to="/myCart">
-                <FaCartArrowDown className="text-2xl" />
-              </Link>
-            </li>
-
-            <li>
-              <Link to="/">
-                <BsPersonFill className="text-2xl" />
-              </Link>
-            </li>
+            <li><Link to="/about">About Us</Link></li>
+            <li><Link to="/contact">Contact</Link></li>
           </ul>
         </div>
       </div>
 
       {/* header logo and navigation bar  */}
       <div
-        className="bg-[#e6005c] h-16 sticky top-0 flex items-center"
-        style={{ zIndex: 2 }}
+        className="bg-[#e6005c] sticky top-0 h-16 flex items-center"
+        style={{ zIndex: 11 }}
       >
         <div className="w-[1450px] mx-auto flex justify-between px-5 md:px-0">
           <Link className="flex items-center text-white" to="/">
@@ -59,25 +44,12 @@ const Navbar = () => {
           </Link>
 
           {/* search bar  */}
-          <div className="hidden md:flex join">
-            <div className="w-full">
-              <div>
-                <input
-                  className="text-m outline-none py-1 px-5 join-item"
-                  placeholder="Search"
-                />
-              </div>
-            </div>
-            <div className="indicator">
-              <button className="btn btn-sm join-item">
-                <FaSearch />
-              </button>
-            </div>
-          </div>
-
+          {/* <div className="hidden md:flex items-center">
+            <SearchBar></SearchBar>
+          </div> */}
           {/* main navigation bar  */}
 
-          <ul className="hidden md:flex gap-3 text-white">
+          <ul className="hidden md:flex gap-3 items-center text-white">
             <li>
               <Link to="/">Home</Link>
             </li>
@@ -161,21 +133,9 @@ const Navbar = () => {
         </li>
 
         {/* search bar  */}
-        <div className="join mt-4 mb-4 w-full">
-          <div className="w-full">
-            <div>
-              <input
-                className="text-m text-black outline-none py-1 px-5 w-full join-item"
-                placeholder="Search"
-              />
-            </div>
-          </div>
-          <div className="indicator">
-            <button className="btn btn-sm join-item">
-              <FaSearch />
-            </button>
-          </div>
-        </div>
+        {/* <div className="join mt-4 mb-4 w-full"> */}
+        {/* <SearchBar></SearchBar> */}
+        {/* </div> */}
       </ul>
     </>
   );

@@ -59,7 +59,7 @@ const ProductDetails = () => {
             <p>Review: 4.5</p>
             <div className="mt-5  flex gap-2 items-center">
             <div className="w-36 px-2 py-1 border border-[#e6005c86]">
-              <p className="text-xl font-semibold"><span className="px-4 py-2">-</span> <span className="px-2 py-1 ">3</span> <span className="p-2">+</span></p>
+              <p className="text-xl font-semibold text-center"><span className="px-4 py-2">-</span> <span className="px-2 py-1 ">3</span> <span className="p-2">+</span></p>
             </div>
             <MainButton text="Buy now"></MainButton>
             </div>
