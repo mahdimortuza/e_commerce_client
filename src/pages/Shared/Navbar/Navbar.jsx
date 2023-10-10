@@ -33,7 +33,7 @@ const Navbar = () => {
 
           <ul className="flex gap-4 mr-5 md:mr-0 text-[#e6005c]">
             <li>
-              <Link to="/">
+              <Link to="/myCart">
                 <FaCartArrowDown className="text-2xl" />
               </Link>
             </li>
