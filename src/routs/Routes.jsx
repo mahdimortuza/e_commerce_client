@@ -4,6 +4,7 @@ import About from "../pages/About/About";
 import ErrorPage from "../pages/Error/ErrorPage";
 import Home from "../pages/Home/Home/Home";
 import ProductDetails from "../pages/ProductDetails/ProductDetails";
+import MyCart from "../pages/MyCart/MyCart";
 
 export const router = createBrowserRouter([
   {
@@ -19,13 +20,13 @@ export const router = createBrowserRouter([
         path: "/about",
         element: <About></About>,
       },
-      // {
-      //   path: "/details",
-      //   element: <ProductDetails></ProductDetails>,
-      // },
       {
         path: "/details/:id",
         element: <ProductDetails></ProductDetails>,
+      },
+      {
+        path: "/myCart",
+        element: <MyCart></MyCart>,
       },
     ],
   },
