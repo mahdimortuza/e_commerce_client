@@ -8,6 +8,7 @@ import {
   FaTimesCircle,
 } from "react-icons/fa";
 import { Helmet } from "react-helmet";
+import ProductSuggestion from "../../components/ProductSuggestion/ProductSuggestion";
 
 const ProductDetails = () => {
   const { id } = useParams();
@@ -80,6 +81,7 @@ const ProductDetails = () => {
           </div>
         </div>
       </div>
+      <ProductSuggestion product={product}></ProductSuggestion>
     </div>
   );
 };
