@@ -28,7 +28,6 @@ const SearchBar = () => {
             <li>aa</li>
             <li>aa</li>
             <li>aa</li>
-            <li>aa</li>
           </ul>
         </div>
       </div>
