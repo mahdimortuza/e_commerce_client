@@ -1,7 +1,6 @@
 import { useState } from "react";
-import { BsPersonFill } from "react-icons/bs";
 import { BiGame } from "react-icons/bi";
-import { FaBars, FaCartArrowDown, FaHeadset, FaTimes } from "react-icons/fa";
+import { FaBars, FaHeadset, FaTimes } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
@@ -132,10 +131,7 @@ const Navbar = () => {
           <Link to="/">Contact</Link>
         </li>
 
-        {/* search bar  */}
-        {/* <div className="join mt-4 mb-4 w-full"> */}
-        {/* <SearchBar></SearchBar> */}
-        {/* </div> */}
+      
       </ul>
     </>
   );
