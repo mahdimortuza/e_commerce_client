@@ -10,5 +10,3 @@ const MainButton = (props) => {
 };
 
 export default MainButton;
-
-// bg-[#0a102b]
