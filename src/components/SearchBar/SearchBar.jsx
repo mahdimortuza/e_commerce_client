@@ -5,7 +5,7 @@ import { FaCartArrowDown } from "react-icons/fa";
 import { BsPersonFill } from "react-icons/bs";
 
 const SearchBar = () => {
-  const { data: products, isError, isLoading } = useGetProductsQuery();
+  const { data: products, } = useGetProductsQuery();
   if (products) {
     console.log(products);
   } else {
