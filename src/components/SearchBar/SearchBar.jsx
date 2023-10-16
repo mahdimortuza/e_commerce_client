@@ -26,7 +26,6 @@ const SearchBar = () => {
           <ul className="bg-white z-10 w-[235px] mt-1 absolute">
             <li>aa</li>
             <li>aa</li>
-            <li>aa</li>
           </ul>
         </div>
       </div>
