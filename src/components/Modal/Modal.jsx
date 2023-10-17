@@ -7,7 +7,7 @@ import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const Modal = ({ product, isOpen, setIsOpen }) => {
-  const { _id, img, name, price, description, category, tags } = product;
+  const { _id, img, name, price, description } = product;
 
   function closeModal() {
     setIsOpen(false);
