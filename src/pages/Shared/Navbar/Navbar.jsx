@@ -56,13 +56,13 @@ const Navbar = () => {
               <select className="outline-none bg-[#e6005c]">
                 <option>Category</option>
                 <option>
-                  <Link to="/">Food</Link>
+                  <Link to="/">Office</Link>
                 </option>
                 <option>
                   <Link to="/">Chocolate</Link>
                 </option>
                 <option>
-                  <Link to="/">Grocery</Link>
+                  <Link to="/">Gaming</Link>
                 </option>
               </select>
             </li>
@@ -107,13 +107,13 @@ const Navbar = () => {
           <select className="outline-none bg-[#e6005c]">
             <option>Category</option>
             <option>
-              <Link to="/food">Food</Link>
+              <Link to="/">Office</Link>
             </option>
             <option onClick={handleClick}>
               <Link to="/">Chocolate</Link>
             </option>
             <option onClick={handleClick}>
-              <Link to="/">Grocery</Link>
+              <Link to="/">Gaming</Link>
             </option>
           </select>
         </li>
